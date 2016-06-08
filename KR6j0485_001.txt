@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:27.811832
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:17
 #+TITLE: 佛說摩利支天經
 #+PROPERTY: CBETA_ID T21n1255b
 #+PROPERTY: ID KR6j0485
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1255b
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0485_T_001-0260b> 
 #+PROPERTY: JUAN 1
 ¶
-
- 《佛說摩利支天經》¶
+《佛說摩利支天經》¶
 ¶
 唐三藏沙門大廣智¶
 不空奉　詔譯¶
@@ -30,9 +29,9 @@
 其便。若有善男子善女人。知彼摩利支天¶
 名求加護者。應作是言。我(某甲)知摩利支天¶
 母有大神力。我今歸命願護我身。無人能¶
-見我無人能知。我無人能捉我無人能縛。¶
-我無人能害我無人能欺誑我。無人能債¶
-我財物。無人能責罰。我亦不為怨家能得¶
+見我。無人能知我。無人能捉我。無人能縛¶
+我。無人能害我。無人能欺誑我。無人能債¶
+我財物。無人能責罰我。亦不為怨家能得¶
 其便。爾時世尊說陀羅尼曰。¶
 
 曩謨(引)囉怛曩(二合)怛囉(二合)夜野(一)怛儞也¶
